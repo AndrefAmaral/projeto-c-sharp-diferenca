@@ -1,0 +1,13 @@
+C:\dev\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.exe
+C:\dev\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.deps.json
+C:\dev\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.runtimeconfig.json
+C:\dev\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.runtimeconfig.dev.json
+C:\dev\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.dll
+C:\dev\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.pdb
+C:\dev\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.csprojAssemblyReference.cache
+C:\dev\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.AssemblyInfoInputs.cache
+C:\dev\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.AssemblyInfo.cs
+C:\dev\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.csproj.CoreCompileInputs.cache
+C:\dev\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.dll
+C:\dev\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.pdb
+C:\dev\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.genruntimeconfig.cache
